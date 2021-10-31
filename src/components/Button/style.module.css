@@ -1,0 +1,18 @@
+.button {
+  padding: 7px 10px;
+  background: #fff;
+  border: 1px solid #d8d8d8;
+  border-radius: 3px;
+  box-shadow: 3px 3px 5px 1px #dadada;
+  cursor: pointer;
+  margin: 5px;
+}
+.button:hover {
+  background-color: gray;
+  color: #fff;
+  transition: 0.3s;
+}
+.button[disabled]:hover {
+  background: #fff;
+  color: #b7b7b7;
+}

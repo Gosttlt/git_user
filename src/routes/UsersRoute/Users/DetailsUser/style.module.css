@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+}
+.info {
+}
+.avatar {
+  width: 400px;
+  height: 400px;
+}
+.info div {
+  padding: 10px;
+}

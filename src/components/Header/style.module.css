@@ -1,0 +1,15 @@
+.header {
+  box-shadow: 4px 4px 7px 1px #dddddd;
+  padding: 10px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+.link {
+  text-decoration: none;
+  padding: 20px;
+  font-weight: bold;
+  color: rgb(131, 131, 131);
+}
+.activeLink {
+  color: black;
+}
